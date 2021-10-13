@@ -1,0 +1,15 @@
+{
+  "architecture":"all",
+  "description":"multimaps",
+  "framework":"ubuntu-sdk-16.04",
+  "hooks": {
+    "multimaps": {
+      "apparmor":"multimaps.apparmor",
+      "desktop":"multimaps.desktop"
+      }
+  },
+  "maintainer":"Andreas Johannsen <aj-ubuntutouch@posteo.de>",
+  "name":"multimaps",
+  "title":"multimaps",
+  "version":"1.0.0"
+}

@@ -1,0 +1,13 @@
+[Desktop Entry]
+Name=Multi Maps
+Comment=Morph based satellites.pro Webapp
+Exec=webapp-container --webappUrlPatterns=https?://satellites.pro/*,https?://*.satellites.pro/* --store-session-cookies --enable-media-hub-audio https://satellites.pro
+Icon=icons/icon.png
+Terminal=false
+Type=Application
+X-Ubuntu-Touch=true
+X-Ubuntu-Splash-Color=#949494
+
+X-Ubuntu-Splash-Image=icons/icon-splash.png
+
+Name[de_DE]=Multi Maps
